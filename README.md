@@ -1,2 +1,2 @@
 # Deep-Learning
-Deep learning with Python
+Learning Deep learning with python  and experimenting!
